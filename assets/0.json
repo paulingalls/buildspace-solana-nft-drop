@@ -1,0 +1,19 @@
+{
+  "name": "Natsu",
+  "symbol": "",
+  "image": "0.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "2hYmpgBuVc8qCskrxA6My66xKPF61S8xf2NWhyhbxvtM",
+        "share": 100
+      }
+    ]
+  }
+}

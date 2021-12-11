@@ -1,0 +1,19 @@
+{
+  "name": "Erza",
+  "symbol": "",
+  "image": "1.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "1.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "2hYmpgBuVc8qCskrxA6My66xKPF61S8xf2NWhyhbxvtM",
+        "share": 100
+      }
+    ]
+  }
+}
